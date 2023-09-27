@@ -1,0 +1,14 @@
+.icon{
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.header{
+    background-color: rgb(228, 218, 240);
+    height: 6rem;
+}
